@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "title": "Coral Reef Exploration",
+    "image": "https://www.worldatlas.com/upload/b9/f1/4a/shutterstock-2094614209.jpg",
+    "category": "Ocean Diving",
+    "shortDescription": "Dive into vibrant coral reefs and discover exotic marine life.",
+    "cost": 200,
+    "bookingAvailability": true,
+    "location": "Great Barrier Reef, Australia",
+    "duration": "3 hours",
+    "adventureLevel": "Beginner",
+    "includedItems": ["Snorkeling Gear", "Safety Briefing", "Refreshments"],
+    "ecoFriendlyFeatures": ["Marine-safe Sunscreen", "Zero Waste Policy"],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Arrive 30 minutes early.",
+      "Wear a swimsuit and bring a towel."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Shipwreck Dive",
+    "image": "https://res.cloudinary.com/padi/image/upload/v1701290031/CDN/commerce/wreck-diver.jpg",
+    "category": "Ocean Diving",
+    "shortDescription": "Explore historic shipwrecks teeming with marine life.",
+    "cost": 300,
+    "bookingAvailability": true,
+    "location": "Truk Lagoon, Micronesia",
+    "duration": "4 hours",
+    "adventureLevel": "Intermediate",
+    "includedItems": ["Dive Instructor", "Oxygen Tanks", "Photography Service"],
+    "ecoFriendlyFeatures": ["Eco-friendly Boats", "No-Touch Policy"],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Scuba certification required.",
+      "Avoid touching corals and marine life."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Deep Sea Night Dive",
+    "image": "https://www.scubadiving.com/sites/default/files/styles/655_1x_/public/scuba/images/2023/03/credit_padi_.jpg?itok=OklNUigy",
+    "category": "Ocean Diving",
+    "shortDescription": "Experience the ocean's mysteries under the cover of darkness.",
+    "cost": 400,
+    "bookingAvailability": false,
+    "location": "Maldives",
+    "duration": "2 hours",
+    "adventureLevel": "Advanced",
+    "includedItems": [
+      "Underwater Flashlight",
+      "Night Dive Gear",
+      "Safety Team"
+    ],
+    "ecoFriendlyFeatures": ["LED Lighting", "Carbon Neutral Operations"],
+    "maxGroupSize": 5,
+    "specialInstructions": [
+      "Advanced diving certification required.",
+      "Check equipment thoroughly before the dive."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Shark Diving Adventure",
+    "image": "https://adrenalina.tours/cdn/shop/files/Adrenaline-Sharks-1.webp?v=1703858925",
+    "category": "Ocean Diving",
+    "shortDescription": "Swim safely with sharks in their natural habitat.",
+    "cost": 500,
+    "bookingAvailability": true,
+    "location": "Gansbaai, South Africa",
+    "duration": "3 hours",
+    "adventureLevel": "Intermediate",
+    "includedItems": ["Cage Dive Equipment", "Professional Guide", "Snacks"],
+    "ecoFriendlyFeatures": [
+      "Shark Conservation Funding",
+      "Marine-safe Practices"
+    ],
+    "maxGroupSize": 6,
+    "specialInstructions": [
+      "Avoid sudden movements inside the cage.",
+      "Listen to the guide's instructions carefully."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Underwater Photography Dive",
+    "image": "https://images.unsplash.com/photo-1682687982502-1529b3b33f85?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Ocean Diving",
+    "shortDescription": "Capture the beauty of the ocean with expert photography guidance.",
+    "cost": 350,
+    "bookingAvailability": true,
+    "location": "Kona Coast, Hawaii",
+    "duration": "3.5 hours",
+    "adventureLevel": "Beginner to Intermediate",
+    "includedItems": [
+      "Underwater Camera Rental",
+      "Photography Tips",
+      "Dive Equipment"
+    ],
+    "ecoFriendlyFeatures": ["Plastic-Free Zone", "Eco-education Sessions"],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Ensure camera equipment is secured.",
+      "Participate in the pre-dive photography session."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Turtle Reef Dive",
+    "image": "https://www.scubabutler.com/sites/default/files/styles/wide/public/2024-06/IMG-0864_0.jpg?itok=diBjGsh1",
+    "category": "Ocean Diving",
+    "shortDescription": "Swim alongside sea turtles in a pristine reef environment.",
+    "cost": 250,
+    "bookingAvailability": true,
+    "location": "Galápagos Islands, Ecuador",
+    "duration": "3 hours",
+    "adventureLevel": "Beginner",
+    "includedItems": ["Snorkeling Gear", "Guided Tour", "Refreshments"],
+    "ecoFriendlyFeatures": [
+      "Marine Conservation Efforts",
+      "Waste Reduction Program"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Respect the wildlife and maintain distance.",
+      "Wear reef-safe sunscreen."
+    ]
+  }
+
+]
